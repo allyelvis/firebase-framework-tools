@@ -14,7 +14,7 @@
     "packages/**/*"
   ],
   "devDependencies": {
-    "@angular-devkit/build-angular": "^18.2.14",
+    "@angular-devkit/build-angular": "^18.1.0",
     "@types/mocha": "*",
     "@typescript-eslint/eslint-plugin": "^6.10.0",
     "eslint": "^8.53.0",
